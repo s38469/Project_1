@@ -11,6 +11,6 @@ public class Main {
         Subtractor subtractor = new Subtractor();
 
 
-        System.out.println(subtractor.subtract(88, 10));
+        System.out.println(subtractor.subtract(333, 222));
     }
 }
